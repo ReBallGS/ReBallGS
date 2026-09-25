@@ -1,12 +1,20 @@
-# Rennan Ballaro
+<h1 align="center">Rennan Ballaro</h1>
+<h3 align="center">Desenvolvedor Backend Java · sistemas financeiros · microsserviços</h3>
 
-**Desenvolvedor Backend Java** · sistemas financeiros · microsserviços
+<div align="center">
+  <a href="https://www.linkedin.com/in/rennan-ballaro">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" align="center" height="50" width="60" alt="LinkedIn" />
+  </a>
+</div>
 
-Rio de Janeiro, Brasil
+<p align="center">
+  <em>Backend Java developer focused on Brazilian payment systems, Spring Boot microservices, and Central Bank integrations.</em>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/rennan-ballaro) · [rennanballaro@gmail.com](mailto:rennanballaro@gmail.com)
-
-*Backend Java developer focused on Brazilian payment systems, Spring Boot microservices, and Central Bank integrations.*
+<div align="center">
+  <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=ReBallGS&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReBallGS&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=spring-petclinic" />
+</div>
 
 ---
 
@@ -17,6 +25,41 @@ Trabalho com backend Java em sistemas financeiros que exigem disponibilidade, ra
 No dia a dia isso significa microsserviços em Spring Boot, processamento assíncrono com Kafka, bases relacionais e MongoDB, e entrega com Docker e Kubernetes. Conduzi a modernização de aplicações de Java 8 para Java 17 e desenvolvi frameworks internos que outras equipes passaram a usar.
 
 O código dos sistemas bancários é proprietário. Os repositórios públicos abaixo mostram como eu estruturo uma API, documento o contrato e cubro o comportamento com teste.
+
+## Tecnologias
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" align="center" height="50" width="60" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" align="center" height="50" width="60" alt="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" align="center" height="50" width="60" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" align="center" height="50" width="60" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" align="center" height="50" width="60" alt="Apache Kafka" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" align="center" height="50" width="60" alt="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" align="center" height="50" width="60" alt="Oracle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" align="center" height="50" width="60" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" align="center" height="50" width="60" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" align="center" height="50" width="60" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" align="center" height="50" width="60" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" align="center" height="50" width="60" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" align="center" height="50" width="60" alt="Jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" align="center" height="50" width="60" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" align="center" height="50" width="60" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" align="center" height="50" width="60" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" align="center" height="50" width="60" alt="Google Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" align="center" height="50" width="60" alt="Azure" />
+</div>
+
+**Linguagens e frameworks** — Java 8, 11 e 17 · Spring Boot · Spring Data · Spring Security · APIs REST · JavaScript · React
+
+**Mensageria** — Apache Kafka · Redis
+
+**Dados** — Oracle · SQL Server · MySQL · MongoDB
+
+**Entrega** — Docker · Kubernetes · Jenkins · Git · Linux · AWS · GCP · Azure
+
+**Domínio** — PIX (SPI, SPB, QR Code, Saque/Troco, Automático) · Core Banking · DDA · BACEN
+
+**Prática** — SOLID · Clean Code · design patterns · TDD · Scrum
 
 ## Experiência
 
@@ -41,20 +84,6 @@ O código dos sistemas bancários é proprietário. Os repositórios públicos a
 - Suporte a sistemas em Java e C++
 - Administração de Windows Server e Linux, incluindo VMware, Active Directory, DNS e DHCP
 
-## Stack
-
-**Linguagens e frameworks** — Java 8, 11 e 17 · Spring Boot · Spring Data · Spring Security · APIs REST · JavaScript · React
-
-**Mensageria** — Apache Kafka · Redis
-
-**Dados** — Oracle · SQL Server · MySQL · MongoDB
-
-**Entrega** — Docker · Kubernetes · Jenkins · Git · Linux · AWS · GCP · Azure
-
-**Domínio** — PIX (SPI, SPB, QR Code, Saque/Troco, Automático) · Core Banking · DDA · BACEN
-
-**Prática** — SOLID · Clean Code · design patterns · TDD · Scrum
-
 ## Projetos públicos
 
 ### [Client Registry API](https://github.com/ReBallGS/client-registry)
@@ -74,10 +103,14 @@ Extensão do Chrome para calcular o horário de saída a partir da hora de entra
 
 ## Formação
 
-**Bacharel em Sistemas de Informação** — Universidade Estácio de Sá, Rio de Janeiro (2018–2022)
+**Bacharel em Sistemas de Informação** — Universidade Estácio de Sá (2018–2022)
 
 **Inglês** intermediário, com leitura técnica · **Espanhol** básico
 
 ---
 
-Se o seu time trabalha com backend Java, pagamentos ou microsserviços, fale comigo pelo [LinkedIn](https://www.linkedin.com/in/rennan-ballaro) ou por [e-mail](mailto:rennanballaro@gmail.com).
+<div align="center">
+
+Se o seu time trabalha com backend Java, pagamentos ou microsserviços, fale comigo pelo [LinkedIn](https://www.linkedin.com/in/rennan-ballaro).
+
+</div>
